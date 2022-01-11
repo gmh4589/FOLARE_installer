@@ -45,3 +45,6 @@ Var 2.: Run mod installer GUI, load default preset and push Install button
 
 KNOW ISSUES
  - After some preset save the program save broken preview. Possible solution to the problem: You can exit the program, load you're preset and resave it.
+
+SOURCE USAGE:
+ - You need unpack FOLARE_installer.zip into root tool directory.

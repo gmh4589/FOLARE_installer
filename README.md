@@ -1,4 +1,7 @@
-# FOLARE_installer
+# FOLARE installer
+
+![Image alt](https://staticdelivery.nexusmods.com/mods/1151/images/34293/34293-1539206046-1528670673.jpeg)
+
 GUI installer for mod for Follaut 4 game. The mod and build this tool you can download here: https://www.nexusmods.com/fallout4/mods/34293
 
 War. War never changes.
@@ -26,10 +29,11 @@ Now this mod use GUI installer, wich can help you easy install this mod!
 NOTE: To installation this mod using mod managers? download elder version 1.1
 
 1. Make sure in the game setting on Lens Flare option (start Game Launcher -> Option -> Advanced -> Lens Flare)
-
+![Image alt](https://staticdelivery.nexusmods.com/mods/1151/images/34293/34293-1630420433-2044523540.png)
 2. Download mod and unzip archive
 3. Run FOLARE_installer.exe
 4. Setting you're sunshine using dropmenu or load presets from "Presets" folder (need select *.txt file!) or press "Randomize" button until result like you
+![Image alt](https://staticdelivery.nexusmods.com/mods/1151/images/34293/34293-1620406582-488659480.png)
 5. Press "Install" button, select Fallout 4 game folder (NOT data folder!)
 6. ENJOY!!!
 

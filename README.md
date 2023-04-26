@@ -29,6 +29,7 @@ Now this mod use GUI installer, wich can help you easy install this mod!
 NOTE: To installation this mod using mod managers? download elder version 1.1
 
 1. Make sure in the game setting on Lens Flare option (start Game Launcher -> Option -> Advanced -> Lens Flare)
+
 ![Image alt](https://staticdelivery.nexusmods.com/mods/1151/images/34293/34293-1630420433-2044523540.png)
 
 2. Download mod and unzip archive

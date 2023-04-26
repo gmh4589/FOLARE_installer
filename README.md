@@ -36,6 +36,7 @@ NOTE: To installation this mod using mod managers? download elder version 1.1
 4. Setting you're sunshine using dropmenu or load presets from "Presets" folder (need select *.txt file!) or press "Randomize" button until result like you
 
 ![Image alt](https://staticdelivery.nexusmods.com/mods/1151/images/34293/34293-1620406582-488659480.png)
+
 5. Press "Install" button, select Fallout 4 game folder (NOT data folder!)
 6. ENJOY!!!
 

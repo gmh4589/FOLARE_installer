@@ -2,6 +2,9 @@
 
 ![Image alt](https://staticdelivery.nexusmods.com/mods/1151/images/34293/34293-1539206046-1528670673.jpeg)
 
+
+![GitHub Downloads](https://img.shields.io/github/downloads/gmh4589/FOLARE_installer/total?logo=github&label=GitHub%20Downloads)
+
 GUI installer for Follaut 4 game mod. The mod and build this tool you can download here: https://www.nexusmods.com/fallout4/mods/34293
 
 War. War never changes.
